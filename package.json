@@ -1,0 +1,10 @@
+{
+  "name": "uri",
+  "version": "1.0.0",
+  "description": "uri exercises repo",
+  "main": "index.ts",
+  "repository": "git@github.com:FlahDev/Uri.git",
+  "author": "FlahDev",
+  "license": "MIT",
+  "private": false
+}
